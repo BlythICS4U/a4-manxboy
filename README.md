@@ -40,10 +40,10 @@ Create the survey below.  Try to get the window to look as close as possible.
 
 <img src="https://github.com/BlythICS4U/a4/blob/master/ReadmeImages/Problem5.png" width="450" height="400"/>
 
-When the **Submit** button is pressed, the contents of the survey are saved to a text file called "results.txt".  If the text file does not exist, the first submission will create the file.  All subsequent submissions will update the contents of the file.  For the first 2 questions, you should be keeping a running total of the options chosen.  For the final question, the text should be added to the end of the file.  As an example, if the survey was submitted 5 times, the result contents should look something like this:
+When the **Submit** button is pressed, the contents of the survey are saved to a text file called "results.txt".  If the text file does not exist, the first submission will create the file.  All subsequent submissions will update the contents of the file.  For the first 2 questions, you should be keeping a running total of the options chosen.  For the final question, the text should be added to the end of the file.  You should also be keeping track of the number of surveys completed.  As an example, if the survey was submitted 5 times, the result contents should look something like this:
 
 ```
-Number of surveys: 5
+Number of surveys completed: 5
 
 Question 1:
 Shooters - 3
