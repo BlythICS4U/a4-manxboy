@@ -30,3 +30,42 @@ Your program should contain to have a method for calculating the factorial.
 ### Problem 4
 
 Write a program that has 10 simultaneous bouncing balls in a frame that is 800x800 pixels.
+
+### Problem 5
+
+Create the survey below.  Try to get the window to look as close as possible.
+* For question 1, the options are: Shooters, Fighters, Platformers, Strategy, RPG, Puzzle, Arcade, Sports, Other
+* For question 2, the options are: < 5 hours, < 10 hours, < 15 hours, 15+ hours
+* For question 3, the user can write any text into the text field
+
+<img src="https://github.com/BlythICS4U/a4/blob/master/ReadmeImages/Problem5.png" width="450" height="400"/>
+
+When the **Submit** button is pressed, the contents of the survey are saved to a text file called "results.txt".  If the text file does not exist, the first submission will create the file.  All subsequent submissions will update the contents of the file.  For the first 2 questions, you should be keeping a running total of the options chosen.  For the final question, the text should be added to the end of the file.  As an example, if the survey was submitted 5 times, the result contents should look something like this:
+
+```
+Number of surveys: 5
+
+Question 1:
+Shooters - 3
+Fighters - 1
+Platformers - 1
+Strategy - 2
+RPG - 1
+Puzzle - 0
+Arcade - 3
+Sports - 2
+Other - 4
+
+Question 2:
+< 5 hours - 1
+< 10 hours - 3
+< 15 hours - 1
+15+ hours - 0
+
+Question 3:
+- Fortnite, Minecraft
+- Breath of the Wild, Mario Kart 8, Fallen Order
+- Pong, Pac-man, Donkey Kong
+- Civilization 6
+- Candy Crush, Merge Meadow
+```
