@@ -1,0 +1,24 @@
+Number of surveys completed: 4
+
+Question 1:
+Shooters - 2
+Fighters - 1
+Platformers - 3
+Strategy - 2
+RPG - 3
+Puzzle - 2
+Arcade - 3
+Sports - 1
+Other - 2
+
+Question 2:
+< 5 hours - 1
+< 10 hours - 2
+< 15 hours - 2
+15+ hours - 1
+
+Question 3:
+test, hasljdf
+jaklsdf kljasldkfj
+jaklsdf kljasldkfj
+asdofiha
